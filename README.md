@@ -1,6 +1,6 @@
 # Zero-Shot Coordination in Cooperative Multi-Agent RL
 
-**MSc Artificial Intelligence — Munster Technological University, 2025**
+**MSc Artificial Intelligence — Munster Technological University, 2026**
 Thomas Kelly
 
 ---
